@@ -3,9 +3,9 @@ This documentation is for the stable release of Orion Library.
 Forked By Unknownkellymc1
 
 
-## Booting the Library
+## Booting the Mobile/PC Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Unknownkellymc1/Orion/main/source')))()
 ```
 
 
