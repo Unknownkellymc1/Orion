@@ -2,6 +2,8 @@
 This documentation is for the stable release of Orion Library.
 Forked By Unknownkellymc1
 
+# FIXED EVERYTHING LIKE SLIDERS AND COLORSPICKERS ENJOY
+
 
 ## Booting the Mobile/PC Library
 ```lua
